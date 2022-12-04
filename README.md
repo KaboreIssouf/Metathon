@@ -13,6 +13,7 @@ Quant au volet VR (Réalité virtuelle) l’application permet aux parents ou au
 
 
 ## procedure de lancement
+******************************** Version de UNITY 2020.3.19f1
 - ouvrir le projet avec unity
 - switch le projet en android
 - PLAYER SETTINGS : minimum version android 8
